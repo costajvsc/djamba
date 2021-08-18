@@ -1,0 +1,10 @@
+# .NET Core build folders
+bin/
+obj/
+
+# node modules 
+/node_modules
+/wwwroot/node_modules
+
+.vscode/
+appsettings.json
