@@ -21,7 +21,7 @@ namespace djamba.Models
         [Required]
         public string Title { get; set; }
 
-        [Column("price", TypeName = "decimal(5, 2")]
+        [Column("price", TypeName = "decimal(5, 2)")]
         [Required]
         public Double Price { get; set; }
 
